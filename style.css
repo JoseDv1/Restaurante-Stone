@@ -1,0 +1,40 @@
+body {
+    overflow-x: hidden;
+}
+
+#header .navbar-brand img{
+    width: 80px;
+    filter: invert() grayscale(100%);
+}
+
+#about-us img {
+    max-height: 50vh;
+    aspect-ratio: 1;
+}
+
+#about-us p, #about-us h1 {
+    color: aliceblue;
+}
+
+.bg-gray {
+    background-color: #6b6b6b;
+}
+
+#ubication iframe {
+    width: 100%;
+    max-height: 70vh;
+}
+
+.bg-green, div.bg-green{
+    color: #6b6b6b;
+    background-color: chartreuse;
+}
+
+footer a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+footer a:hover {
+    color: white;
+}
