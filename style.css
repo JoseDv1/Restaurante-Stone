@@ -1,20 +1,21 @@
 body {
     overflow-x: hidden;
+
 }
 
-#header .navbar-brand img{
+
+#header .navbar-brand img {
     width: 80px;
     filter: invert() grayscale(100%);
 }
 
-#header a
-
-#about-us img {
+#header a #about-us img {
     max-height: 50vh;
     aspect-ratio: 1;
 }
 
-#about-us p, #about-us h1 {
+#about-us p,
+#about-us h1 {
     color: aliceblue;
 }
 
@@ -27,7 +28,8 @@ body {
     max-height: 70vh;
 }
 
-.bg-green, div.bg-green{
+.bg-green,
+div.bg-green {
     color: #6b6b6b;
     background-color: chartreuse;
 }
@@ -45,7 +47,8 @@ footer a:hover {
     background-color: dodgerblue;
 }
 
-.bg-white, div.bg-white {
+.bg-white,
+div.bg-white {
     background-color: green;
     color: black;
 }
